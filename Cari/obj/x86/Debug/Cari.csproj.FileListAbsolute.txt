@@ -1,0 +1,13 @@
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\bin\Debug\Cari.exe
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\bin\Debug\Cari.pdb
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\obj\x86\Debug\Cari.Form1.resources
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\obj\x86\Debug\Cari.Properties.Resources.resources
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\obj\x86\Debug\Cari.csproj.GenerateResource.Cache
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\obj\x86\Debug\Cari.exe
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\obj\x86\Debug\Cari.pdb
+c:\users\win_7\documents\visual studio 2010\Projects\Cari\Cari\bin\Debug\Cari.exe.config
+C:\Users\Win_7\Documents\Visual Studio 2010\Projects\Cari\Cari\obj\x86\Debug\Cari.csprojResolveAssemblyReference.cache
+C:\Users\Win_7\Documents\Visual Studio 2010\Projects\Cari\Cari\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\Win_7\Documents\Visual Studio 2010\Projects\Cari\Cari\obj\x86\Debug\Interop.TASKLAUNCHLib.dll
+C:\Users\Win_7\Documents\Visual Studio 2010\Projects\Cari\Cari\obj\x86\Debug\Cari.csproj.ResolveComReference.cache
+C:\Users\Win_7\Documents\Visual Studio 2010\Projects\Cari\Cari\bin\Debug\cari.mdb
